@@ -24,3 +24,15 @@
   padding: 2em;
   margin: 1em;
 }
+
+@media (max-width:370px) {
+  .title-2 {
+    font-size: 3em;
+  }
+}
+
+@media (min-width:768px) {
+  .title-2 {
+    font-size: 6em;
+  }
+}
